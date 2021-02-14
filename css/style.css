@@ -83,14 +83,14 @@ td{
   min-width: 125px;
   padding: 10px;
   color: white;
-  top: 50%;
-  left: 50%;
+  text-align: center;
   text-transform: uppercase;
   background-color: #7e0820;
 }
 /*Req 6c*/
 .rowhead{
   border-top: 2px solid black;
+  border-right: 2px solid black;
 }
 
 /*Req 6d*/
